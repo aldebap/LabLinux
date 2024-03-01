@@ -1,0 +1,8 @@
+#   vscode files
+.vscode/*
+
+#   build output dir
+bin/**
+
+#   Virtual Box dir
+VirtualBox/**
